@@ -1,2 +1,4 @@
-# 20_Newsgroups
-Structured analysis for unsupervised topic discovery using the 20 Newsgroups dataset
+- This page is for Hao's 'CSCA 5632 Unsupervised Algorithms in Machine Learning Final Project'.
+- This notebook presents a structured analysis for unsupervised topic discovery using the 20 Newsgroups dataset. 
+- Data:   https://www.kaggle.com/datasets/crawford/20-newsgroups
+- GitHub: https://github.com/wuwa58/20_Newsgroups
